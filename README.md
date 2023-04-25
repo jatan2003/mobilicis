@@ -43,16 +43,16 @@ we can get our out for above query at: http://localhost:5000/api/deatails/user/b
 we can get our out for above query at: http://localhost:5000/api/deatails/user/top10/cities
  
  #To start backend
- >> cd backend
- >> nodemon start
+ cd backend
+ nodemon start
  
  #Forntend
  
  In front the whole code written inside mobilicis/src/App.js. In this file I am fetch data from backend from created APIs and show it in frontend in form of table there is differnt button for different function.
  
  #To start fronted
- >> cd mobilicis
- >> npm run start
+ cd mobilicis
+ npm run start
  your backend must running.
  
  Thanks
